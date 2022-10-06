@@ -1,3 +1,3 @@
 # bugs
 
-Gotta squash 'em all.
+Testing bugs in a public repo.
