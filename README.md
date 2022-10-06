@@ -1,3 +1,3 @@
 # bugs
 
-Testing bugs in a public repo 🐛
+Testing bugs in a public repo.
