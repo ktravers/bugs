@@ -1,3 +1,3 @@
 # bugs
 
-Gotta squash 'em all.
+Gotta squash 'em all 🐛
